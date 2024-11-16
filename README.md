@@ -5,6 +5,7 @@
 </br>Currently looking for an  <a href="https://docs.google.com/spreadsheets/d/12lWIMfK9-GwPF8OpzxvKezqrHjdiFrwM/edit?gid=1407654151#gid=1407654151">Internship</a><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="30"> 
 </br>Co-founder of <a href="https://augustapp.one/get">August</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
+
 [![Linkedin: Wonjae Kim](https://img.shields.io/badge/-kwj0011288-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kwj0011288/)
 [![GitHub Wonjae Kim](https://img.shields.io/github/followers/kwj0011288?label=follow&style=social)](https://github.com/kwj0011288)
 
