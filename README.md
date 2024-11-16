@@ -24,7 +24,7 @@ const Jay = {
 }
 ```
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240814242-2c79649a-b04c-4c78-998f-c126db48305c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3MzE3ODcsIm5iZiI6MTczMTczMTQ4NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyNDItMmM3OTY0OWEtYjA0Yy00Yzc4LTk5OGYtYzEyNmRiNDgzMDVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE2VDA0MzEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3Mjk0YTI4YTg5YzdlZDBjZTQzZmM1YjI1MTFkNWU0NGNkODc4MjQ4MmM3MGJiYTJhMmEyMTM0YTUzNmI3NTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kx-oHJV0anLDXc7cPQwMfqlX4dOm1vt3nOWWZun4DuQ" width="60"> 
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="60"> 
 <em><b>I love to connect with different people</b>, so if you want to say <b>hi, I’d be thrilled to get to know you better!</b> :)</em>
 
 ---
