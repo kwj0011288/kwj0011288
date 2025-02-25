@@ -18,7 +18,7 @@
 const Jay = {
   pronouns: "he" | "him",
   code: ["Python", "Java", "HTML/CSS", "Flutter", "Dart",
-         "C", "JavaScript", "MIPS", "OCaml", "Rust"],
+         "C", "JavaScript", "Typescript", "React", "TailwindCSS", "Vite", "MIPS", "OCaml", "Rust"],
   tools: ["VS Code", "Visual Studio", "Eclipse", "Android Studio", "Xcode", "Grace", "Node.js"],
   contact: ["kwj0011288@gmail.com"],
   challenge: "I am working on Machine Learning project that ..."
