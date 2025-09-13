@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="230">
 
 <p><em>Junior Computer Science Major at <a href="http://umd.edu">University of Maryland College Park</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4bDl4bWZxM3N6czZ3aTR6eGFkOHB4M2gwdDg0NGJlNmhnNjdvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKirS4EA9ckHwBYtAo/giphy.gif" width="18" style = "padding: 10px">
-</br>Currently looking for an  <a href="https://docs.google.com/spreadsheets/d/12lWIMfK9-GwPF8OpzxvKezqrHjdiFrwM/edit?gid=1407654151#gid=1407654151">Internship</a><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="30"> 
+</br>Currently looking for an  <a href="https://docs.google.com/spreadsheets/d/12lWIMfK9-GwPF8OpzxvKezqrHjdiFrwM/edit?gid=1407654151#gid=1407654151">Fulltime job</a><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="30"> 
 </br>Co-founder of <a href="https://augustapp.one/get">August</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </br>Recent Project: <a href = "https://kissing-booth-ai.com"> AI Couple Match</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
